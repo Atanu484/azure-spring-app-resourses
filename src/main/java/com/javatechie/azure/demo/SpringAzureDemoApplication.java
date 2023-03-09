@@ -6,17 +6,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController(v1)
+@RestController()
 public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
 		return "Hello World!";
-	}
-	
-	@GetMapping("/hello")
-	public String message(){
-		return "Hello Hello";
 	}
 
 	public static void main(String[] args) {
