@@ -13,6 +13,11 @@ public class SpringAzureDemoApplication {
 	public String message(){
 		return "Hello World!";
 	}
+	
+	@GetMapping("/hello")
+	public String message(){
+		return "Hello Hello";
+	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAzureDemoApplication.class, args);
