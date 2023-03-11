@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=BnknNTN8icw
 # Introduction To GitHub Actions
 https://learn.microsoft.com/en-us/training/paths/automate-workflow-github-actions/
 
-# GitHub Actions vs. Azure DevOps
+# GitHub Actions Vs. Azure DevOps
 https://www.techtarget.com/searchcloudcomputing/tip/Compare-Azure-DevOps-vs-GitHub-for-CI-CD-pipelines
 
 # What is Azure Spring Apps?
