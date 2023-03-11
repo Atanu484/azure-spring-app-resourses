@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=zvR-Oif_nxg
 #Spring Initializr
 https://start.spring.io/;
 
-# Microservice Architecture vs. Monolithic Architecture
+# Microservice Architecture Vs. Monolithic Architecture
 https://www.youtube.com/watch?v=2r5NuelRNJk
 
 # Microservices Using Spring Boot
