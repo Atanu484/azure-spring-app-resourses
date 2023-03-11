@@ -1,1 +1,3 @@
-# spring-azure-test
+# Azure Spring Apps Resourses
+# Slides 
+
